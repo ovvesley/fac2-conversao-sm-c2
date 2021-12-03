@@ -38,7 +38,7 @@ def binary_to_decimal_sm(binary):
     return decimal
 
 
-def sum_binaries_sm(binary_1, binary_2):
+def sum_binaries_sm(binary_1, binary_2): #comentario
     count = len(binary_1)
     fit_binary_1 = binary_1
     fit_binary_2 = binary_2
